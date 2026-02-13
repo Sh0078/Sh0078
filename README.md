@@ -18,13 +18,14 @@
 
 ## 🌟 Project One
 <p align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
+  <a href="https://github.com/Sh0078/URL-StatusChecker.git">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=🚀%20URL-Status-Checker%20Project&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
   </a>
 </p>
 
 ### ✨ What It Does
-- 🔹 Key feature one
+- 🔹 Check Status of URLs
 - 🔹 Key feature two
 - 🔹 Key feature three
 
@@ -33,7 +34,7 @@
 ## 🌟 Project Two
 <p align="center">
   <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=🚀%20URL-Status-Checker%20Project&fontSize=35&fontColor=ffffff&animation=fadeIn" />
   </a>
 </p>
 
@@ -47,7 +48,7 @@
 ## 🌟 Project Three
 <p align="center">
   <a href="https://github.com/yourusername/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=tokyonight" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=🚀%20URL-Status-Checker%20Project&fontSize=35&fontColor=ffffff&animation=fadeIn" />
   </a>
 </p>
 
@@ -61,7 +62,7 @@
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=Golang,nodejs,express,,python,docker,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,python,linux,html,css,aws,git,github" />
 </p>
 
 ---
