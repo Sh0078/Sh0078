@@ -33,28 +33,30 @@
 
 ## 🌟 Project Two
 <p align="center">
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=🚀%20URL-Status-Checker%20Project&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <a href="https://medium.com/@shafin.alex/setting-up-snort-3-to-monitor-a-home-network-8b744df39353">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=🚀%20Snort3-Setup-on-Ubuntu%20Project&fontSize=35&fontColor=ffffff&animation=fadeIn" />
   </a>
 </p>
 
 ### ✨ What It Does
-- 🔹 Feature highlight
-- 🔹 Tech stack used
-- 🔹 Problem solved
+- 🔹 Feature highligh: Setting up Snort3 on Ubuntu for network Detection
+- 🔹 Tech stack used: Linux(bash), Lua, Nmap
+- 🔹 Problem solved:Configured custom logging using the alert_fast module to track critical events in real time.
+   Fine-tuned the DAQ settings to capture packets in passive mode for non-intrusive monitoring.
+   Troubleshot common configuration errors, including file paths, permissions, and dependencies like DAQ.
 
 ---
 
 ## 🌟 Project Three
 <p align="center">
-  <a href="https://github.com/yourusername/project3">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=🚀%20URL-Status-Checker%20Project&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <a href="https://www.linkedin.com/posts/shafin-alex-073aa874_python-automation-activity-7414913842037743616-gXx3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA_S2FcBy7YEjOLM-8GZLCSqQXNMqr3cows">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=🚀%20Random-Password-Generator%20Project&fontSize=35&fontColor=ffffff&animation=fadeIn" />
   </a>
 </p>
 
 ### ✨ What It Does
-- 🔹 Clean UI
-- 🔹 API integration
+- 🔹 Generate a secure password 
+- 🔹 Using Tkinter and randomness module
 - 🔹 Authentication system
 
 ---
